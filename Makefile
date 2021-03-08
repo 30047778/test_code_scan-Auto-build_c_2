@@ -8,4 +8,3 @@ OBJ = main.o
 
 main: $(OBJ)
 	$(CC) -o $@ $^ $(CFLAGS)
-© 2021 GitHub, Inc.
